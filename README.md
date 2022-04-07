@@ -7,4 +7,5 @@ rclone
 
 # Documentation
 
-[Rclone Official doc](https://rclone.org/docs/)
+[Rclone](https://rclone.org/docs/)
+[Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html#Double-Quotes)
