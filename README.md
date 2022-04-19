@@ -13,3 +13,4 @@ rclone
 # To do
 
 - Upload sites backup \Server\
+- Update all script to "modern" mode
