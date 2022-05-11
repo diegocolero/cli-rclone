@@ -9,8 +9,8 @@
 
 # Start
 backups_log=/root/backups_log.txt
-backup_name=$( date "+%Y-%m-%d-%H:%M:%S-campuscajal.tar.gz")
-dbsql_name= $( date "+%Y-%m-%d-%H:%M:%S-campuscajal.sql")
+backup_name=$( date "+%Y-%m-%d-%H:%M:%S-moodle.tar.gz")
+dbsql_name= $( date "+%Y-%m-%d-%H:%M:%S-moodle.sql")
 echo "---------------------" >> $backups_log
 echo $(date "+[%Y-%m-%d %H:%M:%S] New backup") >> $backups_log
 
