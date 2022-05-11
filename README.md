@@ -9,7 +9,7 @@ rclone
 
 [Rclone](https://rclone.org/docs/)
 
-[Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html#Double-Quotes)
+[Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 # To do
 
